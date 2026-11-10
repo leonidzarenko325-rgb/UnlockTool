@@ -1,4 +1,4 @@
-# UnlockTool 2.0.0
+# UnlockTool 1.0.0
 
 **Windows maintenance and recovery utility — C++ / Win32 / GDI+**
 
