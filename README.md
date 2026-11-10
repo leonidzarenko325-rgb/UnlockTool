@@ -5,19 +5,6 @@
 
 UnlockTool is a desktop application for Windows maintenance, diagnostics, and recovery. This repository contains the Visual Studio source project, preserving the application's original architecture and integrating additional modules.
 
-## Opening and building
-
-1. Install **Visual Studio 2026** with the **Desktop development with C++** workload.
-2. Make sure the Windows 10 SDK is installed.
-3. Open `UnlockTool.sln` or `UnlockTool.slnx`.
-4. Select the `Release` configuration and the `x64` platform.
-5. Run **Build → Build Solution**.
-6. Launch the generated `UnlockTool.exe`.
-
-The application requests administrator privileges through its manifest.
-
-The project uses toolset `v145` and the C++20 language standard. Both `Win32` and `x64` configurations are available.
-
 ## Implemented and integrated modules
 
 - **Task Manager:** process list, critical-process information, suspend, resume, and terminate actions with protection for critical processes, a context-menu option to open a process file location, and a shortcut to the native Windows Startup tab.
