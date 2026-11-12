@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UnlockTool/UnlockTool.vcxproj" Id="d778bf0c-633b-4219-9896-534343fece5c" />
+</Solution>

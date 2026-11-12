@@ -1,0 +1,139 @@
+﻿  main.cpp
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x1a, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x1c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x1f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x22, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x23, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x26, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x2b, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x2f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x32, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x33, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x51, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x53, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x56, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x57, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\resource.h(1,1): warning C4828: Файл содержит символ, начинающийся со смещения 0x5a, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(948,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(957,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(956,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(966,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(981,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(990,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1211,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1211,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1219,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1219,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1228,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1228,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1237,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1237,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1246,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1246,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1254,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1254,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1262,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1262,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1271,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1270,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1329,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1339,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1346,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1355,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1379,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1379,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1387,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1387,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1408,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1408,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1417,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1417,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1457,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1457,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1465,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1465,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1497,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1496,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1495,21): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1494,21): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1510,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1509,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1508,21): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1507,21): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1523,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1522,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1521,17): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1520,17): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1535,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1534,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1533,17): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1532,17): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1549,9): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1548,9): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1547,13): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1546,13): warning C4244: аргумент: преобразование "const LONG" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1721,27): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1719,22): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1792,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1800,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1810,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1832,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1831,22): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1844,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1843,22): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1870,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1869,22): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1888,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1887,22): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1928,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1927,22): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1941,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1940,22): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1979,9): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(1977,9): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2092,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2092,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2102,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2102,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2126,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2126,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2134,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2134,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2184,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2184,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2192,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\UnlockTool\main.cpp(2191,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  UpdateChecker.cpp
+  UsersPage.cpp
+  Создание кода...
+  UnlockTool.vcxproj -> C:\Users\leoni\Downloads\UnlockTool_1.0.1_UpdateChecker\x64\Debug\UnlockTool.exe
