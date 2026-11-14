@@ -47,8 +47,10 @@ Recovery operations and system-configuration changes can affect Windows. Create 
 
 A license will be specified separately once one has been selected. Until then, all rights to the source code remain with the copyright holder.
 
-## Community
 
-Follow the official UnlockTool Telegram channel for news, updates, and release announcements.
+## 🌐 Community
 
-**Telegram:** [@UnlockToolProject](https://t.me/UnlockToolProject)
+Join the UnlockTool community and stay up to date with the latest news, updates, and discussions.
+
+- **Telegram:** [@UnlockToolProject](https://t.me/UnlockToolProject) — News and project updates.
+- **Reddit:** [u/UnlockToolDev](https://www.reddit.com/u/UnlockToolDev/s/gWs3DGwZuZ) — Discussions, feedback, and community posts.
