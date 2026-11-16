@@ -1,56 +1,110 @@
 
-# UnlockTool 1.0.1
+# UnlockTool
 
-**Windows maintenance and recovery utility — C++ / Win32 / GDI+**
+**UnlockTool** is a Windows system utility designed to help users monitor, maintain, diagnose, and repair their Windows systems through a unified graphical interface.
 
-UnlockTool is a desktop application for Windows maintenance, diagnostics, and recovery. This repository contains the Visual Studio source project, preserving the application's original architecture and integrating additional modules.
+The application combines system management tools, diagnostic utilities, cleanup features, and recovery options in one place.
 
-## Implemented and integrated modules
+## Features
 
-- **Task Manager:** process list, critical-process information, suspend, resume, and terminate actions with protection for critical processes, a context-menu option to open a process file location, and a shortcut to the native Windows Startup tab.
-- **Users:** local user account management module.
-- **Diagnostics:** system information, SFC checks, Windows services, and Event Viewer.
-- **Recovery:** Microsoft Store reset, Windows Update settings, SFC, DISM, CHKDSK, Advanced Startup / WinRE, and UAC enablement with a `.reg` backup.
-- **System Cleanup:** cleanup of user temporary files, thumbnail cache, Recycle Bin, and DNS cache. Recycle Bin cleanup requires confirmation and cannot be undone.
-- **BSOD Monitor:** reads BugCheck events from the System Event Log, provides access to Reliability Monitor and Event Viewer, opens the dump folder, and exports TXT and HTML reports. The application can notify the user about a new entry on startup and includes an auto-start setting.
-- **Registry:** manages the Shell, Userinit, CmdLine, AppInit_DLLs, SetupType, and EnableCursorSuppression parameters. Value types are checked before writing; backup and rollback are available during the current application session.
-- **Disk Manager:** displays volumes, file systems, total and free space, physical disk model, GPT/MBR partition style, and SMART failure prediction when supported by the drive. It can launch CHKDSK, Disk Management, and `manage-bde -status`.
-- **Settings:** Russian and English interface languages, notification and auto-start settings, and application information.
+### Home
+- Centralized overview of the application.
+- Quick access to the main system tools.
+- Convenient navigation between sections.
 
-## Important limitations of the current build
+### Task Manager
+- View running processes.
+- Monitor process information and resource usage.
+- Check process criticality.
+- Suspend, resume, and terminate processes.
+- Open process file locations.
+- Search and refresh the process list.
 
-- The source tree and project references have been checked for structural consistency. However, building and running a Win32 application in the Linux environment used for that check is not possible. A real build in Visual Studio and testing on a separate system or virtual machine are required before use.
-- WinRE support is currently partial. Online SFC and DISM commands are not launched from WinRE, preventing accidental servicing of the recovery environment image itself. Automatic detection and servicing of an offline Windows installation have not yet been implemented.
-- Registry operations currently target the active `HKLM` hive. Automatically loading an offline `SYSTEM` or `SOFTWARE` hive is not implemented yet.
-- Registry page backups and rollback data are kept in memory until the application is closed. UAC operations create a separate `.reg` file in `%LocalAppData%\UnlockTool\RegistryBackups`.
-- BSOD Monitor creates a combined TXT or HTML report from detected BugCheck events. Separate reports for each incident, filtering, and persistence of user-selected sorting still need further work.
-- Disk Manager displays SMART failure prediction only when the drive and its driver support the required IOCTL. Changing drive letters opens the native Disk Management utility. BitLocker status checks launch `manage-bde`; unlocking an encrypted volume is handled by Windows.
-- Full compatibility with Windows 10 1607, the x86 architecture, and WinRE has not been independently confirmed.
+### User Management
+- View local Windows user accounts.
+- Manage available user account settings.
+- Access account management tools.
 
-## Project structure
+### Diagnostics
+- Access system diagnostic utilities.
+- Inspect relevant Windows system information.
+- Use additional troubleshooting tools.
 
-- `UnlockTool/UnlockTool.vcxproj` — C++ project file.
-- `UnlockTool/UnlockTool.rc` and `UnlockTool/UnlockTool.ico` — application resources.
-- `main.cpp` — main window, navigation, and module integration.
-- `RegistryRepair.*`, `RegistryPage.*` — registry parameter operations.
-- `Cleanup.*` — cleanup tools.
-- `TaskManager.*` — process management.
-- `Users.*`, `UsersPage.*` — user management.
-- `DiskManager.*`, `DiskManagerPage.*` — disk and volume management.
-- `BSODMonitor.*`, `BSODMonitorPage.*` — BugCheck event history.
+### System Recovery
+- Access Windows system repair utilities.
+- Run SFC and DISM checks.
+- Use disk checking tools.
+- Manage selected system recovery settings.
+- Access Windows Recovery Environment.
 
-## Safety
+### System Cleanup
+- Remove temporary files.
+- Clean thumbnail and cache files.
+- Clear the Recycle Bin.
+- Clear the DNS cache.
+- Review cleanup information before performing selected operations.
 
-Recovery operations and system-configuration changes can affect Windows. Create a current backup of important data before using them. Review each operation carefully and test the application in a virtual machine or another safe environment.
+### BSOD Monitor
+- Monitor Windows blue screen events.
+- Review detected system crashes.
+- Access crash-related diagnostic information.
+- Export diagnostic reports.
+
+### Registry Manager
+- Browse supported Windows Registry parameters.
+- View and edit supported registry values.
+- Access registry repair tools.
+
+### Disk Manager
+- View disk and volume information.
+- Inspect partition and file system details.
+- Check available disk space.
+- Access supported disk management and diagnostic operations.
+
+### Additional Tools
+- Startup management.
+- Bootloader recovery utilities.
+- Windows appearance restoration tools.
+- Additional system maintenance functions.
+
+## Interface
+
+UnlockTool features a modern dark interface with a sidebar navigation system, dedicated tool pages, and an integrated settings section.
+
+The application supports:
+- English interface.
+- Russian interface.
+- Saved language preferences.
+- A unified visual style across application sections.
+
+## System Requirements
+
+- Windows operating system.
+- Administrator privileges may be required for certain operations.
+- Some repair and recovery features depend on Windows components and system configuration.
+
+Compatibility with specific Windows versions and recovery environments may vary.
+
+## Languages
+
+- English
+- Russian
+
+## Security Notice
+
+UnlockTool performs operations that may modify Windows settings, registry values, system files, and other system components.
+
+Some operations require administrator privileges.
+
+Always review an operation before executing it. Creating a backup or restore point before making significant system changes is recommended.
+
+Use the application at your own responsibility.
+
+## Community
+
+- **Telegram:** https://t.me/UnlockToolProject
+- **Reddit:** https://www.reddit.com/u/UnlockToolDev/s/gWs3DGwZuZ
 
 ## License
 
-A license will be specified separately once one has been selected. Until then, all rights to the source code remain with the copyright holder.
-
-
-## 🌐 Community
-
-Join the UnlockTool community and stay up to date with the latest news, updates, and discussions.
-
-- **Telegram:** [@UnlockToolProject](https://t.me/UnlockToolProject) — News and project updates.
-- **Reddit:** [u/UnlockToolDev](https://www.reddit.com/u/UnlockToolDev/s/gWs3DGwZuZ) — Discussions, feedback, and community posts.
+See the `LICENSE` file for licensing information.
